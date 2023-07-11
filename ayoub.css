@@ -1,3 +1,67 @@
-* {
-    color:green>
+
+
+div1 input {
+    background-color:yellow;
 }
+
+
+* {
+    background-color:yellow;
+}
+
+div p {
+    color:rgb(0, 102, 255);
+}
+
+body h4 {
+    color: green;
+}
+
+body div2 {
+    color:chocolate;
+}
+
+.ayoub {
+    color:beige;
+}
+
+div3 p {
+    color:rgb(95, 131, 160);
+}
+
+input[placeholder="Your unique password"] {
+    background-color:rgb(113, 0, 128);
+}
+
+div6 input[placeholder="company name"] {
+    background-color: red
+}
+
+div7 input [placeholder="top secret"] {
+    background-color:rgb(0, 0, 0);
+}
+
+.ouataleb {
+    background-color: blueviolet;
+}
+
+div9 input[placeholder="secret"] {
+    background-color:red;
+}
+
+div10 a {
+    color:blue
+}
+
+
+input[placeholder="countries"] {
+    background-color:blue;
+}
+
+input[placeholder="date"] {
+    background-color:brown;
+}
+
+label1 {
+    background-color:green;
+} 
